@@ -1,3 +1,10 @@
+## Running the Project
+
+Run the demo file:
+
+```bash
+python main.py
+
 # Lab: Linked Lists and Recursion  
 **Lab GitHub Repo**: [Linked Lists and Recursion](https://github.com/learn-co-curriculum/Linked-Lists-and-Recursion)
 
